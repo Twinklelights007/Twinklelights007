@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Twinklelights007
 - 👀 I’m interested in computerscience web and app development
-- 🌱 I’m currently learning bacehlours degree in computer applications
+- 🌱 I’m currently learning bachelour's degree in computer applications
   
 
 <!---
